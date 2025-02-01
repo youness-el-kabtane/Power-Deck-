@@ -54,11 +54,11 @@
 
 2. Use the following navigation controls:
 
- - [BACK+] Return to the main menu.
+ - **[BACK+]** Return to the main menu.
 
- - [BACK] Return to the sub-menu.
+ - **[BACK]** Return to the sub-menu.
 
- - [INFO] View the About page.
+ - **[INFO]** View the About page.
 
 3. Follow the instructions for each command, and review the displayed results.
 
